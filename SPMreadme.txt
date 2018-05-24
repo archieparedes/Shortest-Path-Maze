@@ -27,3 +27,5 @@ Example:
 "  *      f"
 
 Expected output: DRRRDDDDDDDDRRRRRR
+
+JUNIT5 was used for to debug and test program.
